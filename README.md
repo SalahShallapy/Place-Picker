@@ -37,7 +37,7 @@ PlacePicker is a React application that allows users to manage and organize thei
 ## Project Structure
 
 ```
-PlacePicker│
+PlacePicker
 │      .gitignore
 │      .vite.config
 │      index.html
