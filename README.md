@@ -1,14 +1,30 @@
-# PlacePicker
+<div id="top"></div>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://place-picker-b062f.web.app/">
+    <img src="./public/logo.png" alt="Logo" height="80"  >
+  </a>
+  <h1 align="center">Place-Picker</h1>
+
+  <p align="center">
+    <a href="https://place-picker-b062f.web.app/">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/Place-Picker/issues">Report Bug</a>
+  </p>
+</div>
 
 PlacePicker is a React application that allows users to manage and organize their favorite places. Users can add locations they wish to visit, view nearby places sorted by distance, and delete entries with an intuitive modal confirmation system.
 
 ## Project Overview
 
-### overview
+### Overview
 
 ![Project OverView](./public/overview.png)
 
